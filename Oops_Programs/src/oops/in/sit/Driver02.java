@@ -7,7 +7,7 @@ public class Driver02 {
 		Employee e=new Employee();
 		e.empId=111;
 		e.empSalary=83282.00;
-		
+		 
 		d.print(e);
 	
 	}
